@@ -1,1 +1,1 @@
-# Fall_Detection_1D-CNN
+# Fall Detection using 1D-CNN
