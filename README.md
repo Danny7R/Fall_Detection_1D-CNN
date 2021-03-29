@@ -1,1 +1,1 @@
-# Fall Detection using 1D-CNN
+# Fall Detection using accelation data and 1D-CNN
