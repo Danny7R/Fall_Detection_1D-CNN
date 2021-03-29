@@ -1,1 +1,1 @@
-# Fall Detection using accelation data and 1D-CNN
+# Fall Detection using acceleration data and 1-Dimensional Convolutional Neural Networks
