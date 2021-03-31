@@ -1,1 +1,3 @@
-# Fall Detection using acceleration data with 1-Dimensional Convolutional Neural Networks
+# Fall Detection using acceleration data with 1D-CNN
+
+The proposed architecture consists of two models, a time-series forecaster which predicts the expected next state of the system by forecasting the next value in each of the time-series, and an anomaly detection model with a binary output indicating the occurrence of a fall. The first model, the time-series forecaster, is conceptually trained only on one class of data, as it will predict the next state under that assumption. Both scenarios, i.e. training on normal data or fall data, have been explored in this project. Before going into the details of the design of the models, let us briefly go over the data preprocessing steps needed for the models.
