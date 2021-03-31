@@ -12,7 +12,7 @@ To prepare the data samples for the machine learning algorithms, time-delay embe
 ## 
 
 
-_Table 1:
+_Table 1:_
 Accuracy | TPR | FPR | FNR
 :--:|:--:|:--:|:--:
 0.9963 | 0.9963 | 0.0046 | 0.0037
